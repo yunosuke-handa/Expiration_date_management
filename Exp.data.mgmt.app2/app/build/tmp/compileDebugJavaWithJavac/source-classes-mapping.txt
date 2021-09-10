@@ -1,0 +1,4 @@
+exp/date/mgmt/expdatamgmtapp2/MainActivity.java
+ exp.date.mgmt.expdatamgmtapp2.MainActivity
+exp/date/mgmt/expdatamgmtapp2/BuildConfig.java
+ exp.date.mgmt.expdatamgmtapp2.BuildConfig

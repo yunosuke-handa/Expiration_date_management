@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayAdapter adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, data);
 
         // ListViewにArrayAdapterを設定する
-        ListView listView = (ListView)findViewById(R.id.listView);
+        ListView listView = (ListView)findViewById(R.id.listview);
         listView.setAdapter(adapter);
     }
 }
